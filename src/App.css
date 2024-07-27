@@ -1,0 +1,412 @@
+/* section one  */
+body{
+    overflow-x: hidden;
+}
+.One {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 80vh;
+}
+
+.one_container_box {
+    height: 500px;
+    width: 500px;
+}
+
+.one_container_box h1 {
+    font-size: 49px;
+    font-family: cursive;
+    align-items: center;
+}
+
+.one_container_box img {
+    height: 500px;
+}
+
+/* second section */
+.Two {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 300px;
+}
+
+.second_section_box {
+    height: 200px;
+    width: 200px;
+}
+
+.second_section_box img {
+    height: 200px;
+    width: 200px;
+}
+
+/* section three  */
+.Three {
+    height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Third_section_box {
+    height: 400px;
+    width: 400px;
+
+}
+
+.Third_section_box h1 {
+    font-size: 30px;
+}
+
+#Third_section_box1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Four */
+.Four {
+    height: 300px;
+}
+
+.Four_Flex {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Four_container_box {
+    height: 265px;
+    width: 190px;
+    border: 3px solid rgba(255, 255, 255, 0.521);
+    border-radius: 14px;
+    background-color: rgba(248, 241, 232, 0.09);
+    display: flex;
+    justify-content: center;
+    align-items: base;
+    text-align: center;
+}
+
+.Four_container_box img {
+    height: 80px;
+    width: 80px;
+}
+
+.Card_inside {
+    text-align: center;
+}
+
+.four_section_box h1 {
+    margin-inline-start: 145px;
+}
+
+#star {
+    height: auto;
+    width: auto;
+    margin-bottom: 1px;
+}
+
+/* button code  */
+.button-33 {
+    background-color: #c2fbd7;
+    border-radius: 100px;
+    box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset, rgba(44, 187, 99, .15) 0 1px 2px, rgba(44, 187, 99, .15) 0 2px 4px, rgba(44, 187, 99, .15) 0 4px 8px, rgba(44, 187, 99, .15) 0 8px 16px, rgba(44, 187, 99, .15) 0 16px 32px;
+    color: green;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-top: 10px;
+}
+
+.button-33:hover {
+    box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+}
+
+
+/* Five section */
+.Five {
+    height: 50vh;
+}
+
+.Five_container {
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Five_container_box {
+    height: 350px;
+    width: 550px;
+    word-wrap: wrap;
+    border: 2px solid rgba(255, 255, 255, 0.282);
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.F_box {
+    height: 370px;
+    width: 270px;
+    margin: 57px 18px 1px 1px;
+}
+
+.Five_container_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.F_box img:first-child {
+    height: 270px;
+    width: 270px;
+}
+
+.fiveHeading h1 {
+    margin-inline-start: 145px;
+}
+
+/* chef section  */
+.chef_section {
+    position: relative;
+    top: 200px;
+}
+
+.container_chef {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 70vh;
+}
+
+.chef_box {
+    height: 470px;
+    width: 340px;
+    background-color: rgb(225, 83, 11);
+}
+
+.chef_box img {
+    height: 400px;
+    width: 340px;
+}
+
+.chef_section h1:first-child {
+    text-align: center;
+}
+
+.chef_box h1 {
+    text-align: center;
+}
+
+.slider_section {
+    height: 80vh;
+    position: relative;
+    top: 230px;
+}
+
+
+/*    box container first Page Button  */
+
+
+/* CSS */
+.button-75 {
+    align-items: center;
+    background-image: linear-gradient(135deg, #f34079 40%, #fc894d);
+    border: 0;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    font-family: "Codec cold", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    height: 54px;
+    justify-content: center;
+    letter-spacing: .4px;
+    line-height: 1;
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    text-decoration: none;
+    text-transform: uppercase;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-75:active {
+    outline: 0;
+}
+
+.button-75:hover {
+    outline: 0;
+}
+
+.button-75 span {
+    transition: all 200ms;
+}
+
+.button-75:hover span {
+    transform: scale(.9);
+    opacity: .75;
+}
+
+@media screen and (max-width: 991px) {
+    .button-75 {
+        font-size: 15px;
+        height: 50px;
+    }
+
+    .button-75 span {
+        line-height: 50px;
+    }
+}
+
+/* second contaibner Buttons 
+
+*/
+
+.button-89 {
+    --b: 3px;
+    --s: .45em;
+    --color: #ffffff;
+    padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+    color: var(--color);
+    --_p: var(--s);
+    background:
+        conic-gradient(from 90deg at var(--b) var(--b), #0000 90deg, var(--color) 0) var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+    transition: .3s linear, color 0s, background-color 0s;
+    outline: var(--b) solid #0000;
+    outline-offset: .6em;
+    font-size: 16px;
+
+    border: 0;
+
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-89:hover,
+.button-89:focus-visible {
+    --_p: 0px;
+    outline-color: var(--color);
+    outline-offset: .05em;
+}
+
+.button-89:active {
+    background: var(--color);
+    color: #fff;
+}
+/* media query */
+
+
+@media only screen and (max-width: 768px) {
+  body{
+    overflow-x: hidden;
+  }
+    .One{
+        flex-direction: column;
+    }
+    .one_container_box{
+        height: 300px;
+    }
+    .one_container_box img{
+        height: 300px;
+    }
+    /*  card */
+    .Two {
+        flex-direction: column;
+        position: relative;
+        width: 110%;
+        left: 12px;
+    }
+    .second_section_box img{
+        height: 130px;
+        width: 130px;
+    }
+    .one_container_box{
+        width: 243px;
+    }
+    .one_container_box h1{
+        font-size: 20px;
+    }
+    /* Three  */
+    .Three{
+        flex-direction: column;
+        height: 160vh;
+        position: relative;
+        top: 200px;
+    }
+    .Third_section_box{
+        height: 500px;
+        width: 300px;
+    }
+    .Third_section_box img{
+        height: 340px;
+        width: 376px;
+        margin-top: 149px;
+    }
+    .Four{
+        height: 180vh;
+        margin-top: 12px;
+  
+    }
+    .Four_Flex{
+        flex-direction: column;
+
+    }
+    .Four_container_box{
+        margin-top: 15px;
+    }
+    .Five_container{
+        flex-direction: column;
+    }
+    .Five_container_box{
+        height: 250px;
+        width: 300px;
+        margin-top: 10px
+    }
+    .Five_container_box h1{
+        font-size: 20px;
+    }
+    .F_box img:first-child{
+        height: 150px;
+        width: 150px;
+    }
+    .F_box{
+        margin-top: 132px;
+    }
+    .F_box img{
+        width: 140px;
+    }
+    .chef_section{
+        margin-top: 100px;
+    }
+    .container_chef{
+        flex-direction: column;
+    }
+    .chef_box{
+        height: 300px;
+        width: 300px;
+        margin-top: 60px;
+    }
+    .chef_box img{
+        height: 300px;
+        width: 300px;
+    }
+  }                  
